@@ -1,7 +1,6 @@
 import { 
   TetrominoType, 
   Tetromino, 
-  GameState, 
   Position,
   TETROMINO_SHAPES, 
   BOARD_WIDTH, 

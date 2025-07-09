@@ -5,10 +5,7 @@ import GameBoard from './GameBoard';
 import NextPiece from './NextPiece';
 import GameInfo from './GameInfo';
 import { 
-  GameState, 
-  Tetromino,
-  BOARD_WIDTH,
-  BOARD_HEIGHT
+  GameState
 } from '@/types/tetris';
 import {
   createEmptyBoard,
